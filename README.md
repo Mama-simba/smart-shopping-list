@@ -66,3 +66,48 @@ You’ll want to make your first contribution to this repo before your kick-off 
 2. Add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file.
    - Do this from your local environment and not from GitHub in your browser. The purpose (aside from highlighting our amazing team) is to make sure your local environment is set up properly!
    - Commit to the `main` branch and push it up to the remote repo. (Over the next 8 weeks, we will rely on feature branches as we collaborate on the project, but for this task committing to main will do just fine.)
+
+# Smart shopping list app
+
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Link](#link)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Authors](#authors)
+
+## Overview
+
+![](./images/screenshot.png)
+
+## The challenge
+
+This smart shopping list app learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
+
+### Link
+
+- Solution [here](https://tcl-49-smart-shopping-list.web.app/)
+
+### Built with
+
+- ReactJS
+- NodeJS
+- Firebase
+- Tailwind
+- Responsive design
+
+### What I learned
+
+- ReactJS
+- Firebase functions and the localstorage
+- Git commands (for branch creation, merges, rebases, etc.)
+- Pull requests
+- Code reviews
+- Weekly demo functionalities
+- Accessibility
+
+
+## Authors
+
+- Cristina Padilla - [www.cristina-padilla.com](https://www.cristina-padilla.com)
+- Twitter - [@crispitipina](https://www.twitter.com/crispitipina)
