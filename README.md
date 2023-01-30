@@ -15,7 +15,7 @@
 
 ## The challenge
 
-This smart shopping list app learns your buying habits and helps you remember what you’re likely to need to buy on your next trip to the store.
+This smart shopping list app learns your buying habits and helps you remember what you’re likely to buy on your next trip to the store.
 
 
 ### Link
